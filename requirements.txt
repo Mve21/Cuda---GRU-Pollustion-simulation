@@ -1,0 +1,3 @@
+numpy>=1.24
+pycuda>=2022.1
+matplotlib>=3.5
